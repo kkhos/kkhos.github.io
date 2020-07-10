@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Hello Friend NG</title>
-    
-    
-    
-    <link>localhost/blog/</link>
-    <description>Recent content in Blog on Hello Friend NG</description>
+    <title>Blogs on Dev Blog</title>
+    <link>https://kkhos.github.io/blog/</link>
+    <description>Recent content in Blogs on Dev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <language>kr-ko</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sat, 11 Jul 2020 00:56:32 +0900</lastBuildDate>
     
-	<atom:link href="localhost/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kkhos.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>개발서적</title>
+      <link>https://kkhos.github.io/blog/%EA%B0%9C%EB%B0%9C%EC%84%9C%EC%A0%81/</link>
+      <pubDate>Sat, 11 Jul 2020 00:56:32 +0900</pubDate>
+      
+      <guid>https://kkhos.github.io/blog/%EA%B0%9C%EB%B0%9C%EC%84%9C%EC%A0%81/</guid>
+      <description> 컴퓨터 프로그램의 구조와 해석1 / 읽는 중 컴퓨터 프로그램의 구조와 해석2 Head First Design Patterns / 읽는 중  </description>
+    </item>
     
   </channel>
 </rss>

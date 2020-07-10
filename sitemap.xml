@@ -4,14 +4,31 @@
   
   <url>
     <loc>https://kkhos.github.io/</loc>
+    <lastmod>2020-07-11T00:56:32+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kkhos.github.io/categories/</loc>
+    <loc>https://kkhos.github.io/blog/</loc>
+    <lastmod>2020-07-11T00:56:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kkhos.github.io/tags/book/</loc>
+    <lastmod>2020-07-11T00:56:32+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://kkhos.github.io/tags/</loc>
+    <lastmod>2020-07-11T00:56:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kkhos.github.io/blog/%EA%B0%9C%EB%B0%9C%EC%84%9C%EC%A0%81/</loc>
+    <lastmod>2020-07-11T00:56:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kkhos.github.io/categories/</loc>
   </url>
   
 </urlset>

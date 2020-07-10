@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>kr-ko</language>
     <copyright>© {year}</copyright>
+    <lastBuildDate>Sat, 11 Jul 2020 00:56:32 +0900</lastBuildDate>
     
 	<atom:link href="https://kkhos.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>book</title>
+      <link>https://kkhos.github.io/tags/book/</link>
+      <pubDate>Sat, 11 Jul 2020 00:56:32 +0900</pubDate>
+      
+      <guid>https://kkhos.github.io/tags/book/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
